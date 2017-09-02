@@ -1,0 +1,41 @@
+
+***********************
+***********************
+ Fri Apr 01 15:33:20 CDT 2016
+http://firefox.com/
+ CLIENT IP ADDRESS IS : 127.0.0.1
+ REQUEST LENGTH IS: 19
+ RESPONSE LENGTH IS: 287
+ TIME ELAPSED IS: 42.944
+ HOST IP ADDRESS IS : 63.245.213.24
+ HOST PORT NUMBER IS : 80
+***********************
+***********************
+ Fri Apr 01 15:36:46 CDT 2016
+http://yahoo.com/
+ CLIENT IP ADDRESS IS : 127.0.0.1
+ REQUEST LENGTH IS: 17
+ RESPONSE LENGTH IS: 304
+ TIME ELAPSED IS: 7.511
+ HOST IP ADDRESS IS : 98.139.183.24
+ HOST PORT NUMBER IS : 80
+***********************
+***********************
+ Fri Apr 01 15:38:15 CDT 2016
+http://linkedin.com/
+ CLIENT IP ADDRESS IS : 127.0.0.1
+ REQUEST LENGTH IS: 20
+ RESPONSE LENGTH IS: 0
+ TIME ELAPSED IS: 12.676
+ HOST IP ADDRESS IS : 108.174.10.10
+ HOST PORT NUMBER IS : 80
+***********************
+***********************
+ Fri Apr 01 15:38:49 CDT 2016
+http://tutorialpoint.com/
+ CLIENT IP ADDRESS IS : 127.0.0.1
+ REQUEST LENGTH IS: 25
+ RESPONSE LENGTH IS: 6425
+ TIME ELAPSED IS: 18.396
+ HOST IP ADDRESS IS : 98.124.243.31
+ HOST PORT NUMBER IS : 80
